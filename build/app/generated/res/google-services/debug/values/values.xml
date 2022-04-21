@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">296263315070-ccjhh2merth720bou9cmek4kve0mkrs1.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">296263315070</string>
+    <string name="google_api_key" translatable="false">AIzaSyAY90v0rgsCQ191X06OUIcuVSJdfpVK470</string>
+    <string name="google_app_id" translatable="false">1:296263315070:android:148ca0745d9b3d7994322f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAY90v0rgsCQ191X06OUIcuVSJdfpVK470</string>
+    <string name="google_storage_bucket" translatable="false">epicerie-app.appspot.com</string>
+    <string name="project_id" translatable="false">epicerie-app</string>
+</resources>
